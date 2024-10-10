@@ -1,5 +1,7 @@
 # PixelTrace
 
+![PixelTrace](https://github.com/NagareYash/PixelTrace/blob/main/PixelTrace.webp)
+
 PixelTrace is an innovative project aimed at analyzing and tracing pixel data from images. It applies advanced techniques to ensure accurate pixel-level analysis, making it an ideal tool for image processing, computer vision tasks, and research purposes.
 
 ## Research Paper
